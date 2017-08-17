@@ -1,0 +1,30 @@
+#迪优美特
+key 20   POWER		WAKE
+key 28   MUTE
+key 88   VOLUME_DOWN   
+key 11   VOLUME_UP    
+key 92   BACK               
+key 1    MENU               
+key 72    HOME
+key 7   DPAD_CENTER        
+key 2   DPAD_DOWN          
+key 3   DPAD_UP            
+key 14   DPAD_LEFT          
+key 26   DPAD_RIGHT
+key 9   1
+key 29   2
+key 31   3
+key 13   4
+key 25   5
+key 27   6
+key 17   7
+key 21   8
+key 23   9
+key 19   MOUSE
+key 18   0
+key 22   DEL
+key 12 SETTINGS
+key 6 PERIOD
+key 64 APPS
+key 68 TV
+key 24 MOVIE
